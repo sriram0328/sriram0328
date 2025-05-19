@@ -1,10 +1,10 @@
 ## 👋 Hi there!
 
-# I'm Haarthi Vallabhaneni
+# I'm Sriram Ramanadham
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white)](https://haarthiv13.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haarthi-vallabhaneni-83a27828b/)
-[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haarthivallabhaneni13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white)](https://sriramramanadham.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-ramanadham-66827628b/)
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sriramramanadham355@gmail.com)
 
 ---
 
@@ -36,17 +36,4 @@ Thanks for stopping by!
 I'm always open to new opportunities, learning, and collaboration. Let's build something impactful together 🚀
 
 
-<!--
-**HaarthiV13/HaarthiV13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
